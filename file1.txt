@@ -1,0 +1,3 @@
+итого 4
+-rw-rw-r-- 1 testuser testuser  0 дек 17 16:20 file1.txt
+-rw-rw-r-- 1 testuser testuser 23 дек 17 16:19 readme.txt
