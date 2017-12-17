@@ -1,0 +1,10 @@
+итого 20
+-rw-rw-r-- 1 testuser testuser 134 дек 17 16:20 file1.txt
+-rw-rw-r-- 1 testuser testuser 197 дек 17 16:20 file2.txt
+-rw-rw-r-- 1 testuser testuser 101 дек 17 17:56 images1.img
+-rw-rw-r-- 1 testuser testuser   0 дек 17 17:55 images2.img
+-rw-rw-r-- 1 testuser testuser   0 дек 17 17:55 images3.img
+-rw-rw-r-- 1 testuser testuser   0 дек 17 17:55 images4.img
+-rw-rw-r-- 1 testuser testuser   0 дек 17 17:55 images5.img
+-rw-rw-r-- 1 testuser testuser 218 дек 17 16:35 README.md
+-rw-rw-r-- 1 testuser testuser  23 дек 17 16:19 readme.txt
